@@ -1,0 +1,516 @@
+<?xml version="1.0" ?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d36" attr.name="key" attr.type="int" for="edge"/>
+  <key id="d35" attr.name="LinkLabel" attr.type="string" for="edge"/>
+  <key id="d34" attr.name="label" attr.type="string" for="node"/>
+  <key id="d33" attr.name="Longitude" attr.type="double" for="node"/>
+  <key id="d32" attr.name="id" attr.type="int" for="node"/>
+  <key id="d31" attr.name="type" attr.type="string" for="node"/>
+  <key id="d30" attr.name="Country" attr.type="string" for="node"/>
+  <key id="d29" attr.name="Latitude" attr.type="double" for="node"/>
+  <key id="d28" attr.name="Internal" attr.type="int" for="node"/>
+  <graph edgedefault="undirected">
+    <data key="d0">19/10/10</data>
+    <data key="d1">USA</data>
+    <data key="d2">Country</data>
+    <data key="d3">Internet2 OS3E</data>
+    <data key="d4">Primary</data>
+    <data key="d5">0</data>
+    <data key="d6">http://www.internet2.edu/</data>
+    <data key="d7">1.0</data>
+    <data key="d8">COM</data>
+    <data key="d9">Current</data>
+    <data key="d10">1</data>
+    <data key="d11">0</data>
+    <data key="d12">OS3E</data>
+    <data key="d13">0.3.34dev-20120328</data>
+    <data key="d14">1</data>
+    <data key="d15">0</data>
+    <data key="d16">e278b1b</data>
+    <data key="d17">=</data>
+    <data key="d18">08</data>
+    <data key="d19">3/08/10</data>
+    <data key="d20">IP</data>
+    <data key="d21">Topology Zoo Toolset</data>
+    <data key="d22">0</data>
+    <data key="d23">1</data>
+    <data key="d24">2010_08</data>
+    <data key="d25">2010</data>
+    <data key="d26">2011_09_01</data>
+    <data key="d27">0</data>
+    <node id="0">
+      <data key="d28">1</data>
+      <data key="d29">37.371612</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">0</data>
+      <data key="d33">-122.038258</data>
+      <data key="d34">Sunnyvale</data>
+    </node>
+    <node id="1">
+      <data key="d28">1</data>
+      <data key="d29">36.167783</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">1</data>
+      <data key="d33">-86.778365</data>
+      <data key="d34">Nashville</data>
+    </node>
+    <node id="2">
+      <data key="d28">1</data>
+      <data key="d29">35.785510</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">2</data>
+      <data key="d33">-78.642669</data>
+      <data key="d34">Raleigh</data>
+    </node>
+    <node id="3">
+      <data key="d28">1</data>
+      <data key="d29">41.884150</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">3</data>
+      <data key="d33">-87.632409</data>
+      <data key="d34">Chicago</data>
+    </node>
+    <node id="4">
+      <data key="d28">1</data>
+      <data key="d29">31.759165</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">4</data>
+      <data key="d33">-106.487494</data>
+      <data key="d34">El_Paso</data>
+    </node>
+    <node id="5">
+      <data key="d28">1</data>
+      <data key="d29">39.740010</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">5</data>
+      <data key="d33">-104.992259</data>
+      <data key="d34">Denver</data>
+    </node>
+    <node id="6">
+      <data key="d28">1</data>
+      <data key="d29">32.778155</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">6</data>
+      <data key="d33">-96.795404</data>
+      <data key="d34">Dallas</data>
+    </node>
+    <node id="7">
+      <data key="d28">1</data>
+      <data key="d29">38.254860</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">7</data>
+      <data key="d33">-85.766404</data>
+      <data key="d34">Louisville</data>
+    </node>
+    <node id="8">
+      <data key="d28">1</data>
+      <data key="d29">49.260440</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">8</data>
+      <data key="d33">-123.114034</data>
+      <data key="d34">Vancouver</data>
+    </node>
+    <node id="9">
+      <data key="d28">1</data>
+      <data key="d29">38.890370</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">9</data>
+      <data key="d33">-77.031959</data>
+      <data key="d34">Washington</data>
+    </node>
+    <node id="10">
+      <data key="d28">1</data>
+      <data key="d29">39.766910</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">10</data>
+      <data key="d33">-86.149964</data>
+      <data key="d34">Indianapolis</data>
+    </node>
+    <node id="11">
+      <data key="d28">1</data>
+      <data key="d29">40.438335</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">11</data>
+      <data key="d33">-79.997459</data>
+      <data key="d34">Pittsburgh</data>
+    </node>
+    <node id="12">
+      <data key="d28">1</data>
+      <data key="d29">30.443335</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">12</data>
+      <data key="d33">-91.186994</data>
+      <data key="d34">Baton_Rouge</data>
+    </node>
+    <node id="13">
+      <data key="d28">1</data>
+      <data key="d29">35.084180</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">13</data>
+      <data key="d33">-106.648639</data>
+      <data key="d34">Albuquerque</data>
+    </node>
+    <node id="14">
+      <data key="d28">1</data>
+      <data key="d29">34.053490</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">14</data>
+      <data key="d33">-118.245319</data>
+      <data key="d34">Los_Angeles</data>
+    </node>
+    <node id="15">
+      <data key="d28">1</data>
+      <data key="d29">33.748315</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">15</data>
+      <data key="d33">-84.391109</data>
+      <data key="d34">Atlanta</data>
+    </node>
+    <node id="16">
+      <data key="d28">1</data>
+      <data key="d29">35.149680</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">16</data>
+      <data key="d33">-90.048929</data>
+      <data key="d34">Memphis</data>
+    </node>
+    <node id="17">
+      <data key="d28">1</data>
+      <data key="d29">30.331380</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">17</data>
+      <data key="d33">-81.655799</data>
+      <data key="d34">Jacksonville</data>
+    </node>
+    <node id="18">
+      <data key="d28">1</data>
+      <data key="d29">25.728985</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">18</data>
+      <data key="d33">-80.237419</data>
+      <data key="d34">Miami</data>
+    </node>
+    <node id="19">
+      <data key="d28">1</data>
+      <data key="d29">39.102960</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">19</data>
+      <data key="d33">-94.583062</data>
+      <data key="d34">Kansas_City</data>
+    </node>
+    <node id="20">
+      <data key="d28">1</data>
+      <data key="d29">46.872780</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">20</data>
+      <data key="d33">-113.996234</data>
+      <data key="d34">Missoula</data>
+    </node>
+    <node id="21">
+      <data key="d28">1</data>
+      <data key="d29">39.952270</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">21</data>
+      <data key="d33">-75.162369</data>
+      <data key="d34">Philadelphia</data>
+    </node>
+    <node id="22">
+      <data key="d28">1</data>
+      <data key="d29">32.221553</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">22</data>
+      <data key="d33">-110.969754</data>
+      <data key="d34">Tucson</data>
+    </node>
+    <node id="23">
+      <data key="d28">1</data>
+      <data key="d29">42.885440</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">23</data>
+      <data key="d33">-78.878464</data>
+      <data key="d34">Buffalo</data>
+    </node>
+    <node id="24">
+      <data key="d28">1</data>
+      <data key="d29">29.760450</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">24</data>
+      <data key="d33">-95.369784</data>
+      <data key="d34">Houston</data>
+    </node>
+    <node id="25">
+      <data key="d28">1</data>
+      <data key="d29">42.358635</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">25</data>
+      <data key="d33">-71.056699</data>
+      <data key="d34">Boston</data>
+    </node>
+    <node id="26">
+      <data key="d28">1</data>
+      <data key="d29">44.979035</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">26</data>
+      <data key="d33">-93.264929</data>
+      <data key="d34">Minneapolis</data>
+    </node>
+    <node id="27">
+      <data key="d28">1</data>
+      <data key="d29">40.714550</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">27</data>
+      <data key="d33">-74.007124</data>
+      <data key="d34">New_York</data>
+    </node>
+    <node id="28">
+      <data key="d28">1</data>
+      <data key="d29">40.759505</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">28</data>
+      <data key="d33">-111.888229</data>
+      <data key="d34">Salt_Lake_City</data>
+    </node>
+    <node id="29">
+      <data key="d28">1</data>
+      <data key="d29">41.504365</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">29</data>
+      <data key="d33">-81.690459</data>
+      <data key="d34">Cleveland</data>
+    </node>
+    <node id="30">
+      <data key="d28">1</data>
+      <data key="d29">32.298690</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">30</data>
+      <data key="d33">-90.180489</data>
+      <data key="d34">Jackson</data>
+    </node>
+    <node id="31">
+      <data key="d28">1</data>
+      <data key="d29">45.511795</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">31</data>
+      <data key="d33">-122.675629</data>
+      <data key="d34">Portland</data>
+    </node>
+    <node id="32">
+      <data key="d28">1</data>
+      <data key="d29">47.603560</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">32</data>
+      <data key="d33">-122.329439</data>
+      <data key="d34">Seattle</data>
+    </node>
+    <node id="33">
+      <data key="d28">1</data>
+      <data key="d29">39.051631</data>
+      <data key="d30">USA</data>
+      <data key="d31">Blue</data>
+      <data key="d32">33</data>
+      <data key="d33">-77.483151</data>
+      <data key="d34">Ashburn</data>
+    </node>
+    <edge source="12" target="24">
+      <data key="d35">100Gbps</data>
+      <data key="d36">0</data>
+    </edge>
+    <edge source="12" target="17">
+      <data key="d35">100Gbps</data>
+      <data key="d36">1</data>
+    </edge>
+    <edge source="30" target="24">
+      <data key="d35">100Gbps</data>
+      <data key="d36">2</data>
+    </edge>
+    <edge source="30" target="16">
+      <data key="d35">100Gbps</data>
+      <data key="d36">3</data>
+    </edge>
+    <edge source="3" target="10">
+      <data key="d35">100Gbps</data>
+      <data key="d36">4</data>
+    </edge>
+    <edge source="3" target="19">
+      <data key="d35">100Gbps</data>
+      <data key="d36">5</data>
+    </edge>
+    <edge source="3" target="26">
+      <data key="d35">100Gbps</data>
+      <data key="d36">6</data>
+    </edge>
+    <edge source="3" target="29">
+      <data key="d35">100Gbps</data>
+      <data key="d36">7</data>
+    </edge>
+    <edge source="21" target="27">
+      <data key="d35">100Gbps</data>
+      <data key="d36">8</data>
+    </edge>
+    <edge source="21" target="9">
+      <data key="d35">100Gbps</data>
+      <data key="d36">9</data>
+    </edge>
+    <edge source="5" target="28">
+      <data key="d35">100Gbps</data>
+      <data key="d36">10</data>
+    </edge>
+    <edge source="5" target="13">
+      <data key="d35">100Gbps</data>
+      <data key="d36">11</data>
+    </edge>
+    <edge source="5" target="19">
+      <data key="d35">100Gbps</data>
+      <data key="d36">12</data>
+    </edge>
+    <edge source="6" target="24">
+      <data key="d35">100Gbps</data>
+      <data key="d36">13</data>
+    </edge>
+    <edge source="6" target="19">
+      <data key="d35">100Gbps</data>
+      <data key="d36">14</data>
+    </edge>
+    <edge source="7" target="10">
+      <data key="d35">100Gbps</data>
+      <data key="d36">15</data>
+    </edge>
+    <edge source="7" target="1">
+      <data key="d35">100Gbps</data>
+      <data key="d36">16</data>
+    </edge>
+    <edge source="8" target="32">
+      <data key="d35">100Gbps</data>
+      <data key="d36">17</data>
+    </edge>
+    <edge source="11" target="33">
+      <data key="d35">100Gbps</data>
+      <data key="d36">18</data>
+    </edge>
+    <edge source="11" target="29">
+      <data key="d35">100Gbps</data>
+      <data key="d36">19</data>
+    </edge>
+    <edge source="1" target="16">
+      <data key="d35">100Gbps</data>
+      <data key="d36">20</data>
+    </edge>
+    <edge source="1" target="15">
+      <data key="d35">100Gbps</data>
+      <data key="d36">21</data>
+    </edge>
+    <edge source="13" target="4">
+      <data key="d35">100Gbps</data>
+      <data key="d36">22</data>
+    </edge>
+    <edge source="33" target="9">
+      <data key="d35">100Gbps</data>
+      <data key="d36">23</data>
+    </edge>
+    <edge source="4" target="24">
+      <data key="d35">100Gbps</data>
+      <data key="d36">24</data>
+    </edge>
+    <edge source="4" target="22">
+      <data key="d35">100Gbps</data>
+      <data key="d36">25</data>
+    </edge>
+    <edge source="14" target="22">
+      <data key="d35">100Gbps</data>
+      <data key="d36">26</data>
+    </edge>
+    <edge source="14" target="28">
+      <data key="d35">100Gbps</data>
+      <data key="d36">27</data>
+    </edge>
+    <edge source="14" target="0">
+      <data key="d35">100Gbps</data>
+      <data key="d36">28</data>
+    </edge>
+    <edge source="15" target="17">
+      <data key="d35">100Gbps</data>
+      <data key="d36">29</data>
+    </edge>
+    <edge source="15" target="2">
+      <data key="d35">100Gbps</data>
+      <data key="d36">30</data>
+    </edge>
+    <edge source="17" target="18">
+      <data key="d35">100Gbps</data>
+      <data key="d36">31</data>
+    </edge>
+    <edge source="20" target="32">
+      <data key="d35">100Gbps</data>
+      <data key="d36">32</data>
+    </edge>
+    <edge source="20" target="26">
+      <data key="d35">100Gbps</data>
+      <data key="d36">33</data>
+    </edge>
+    <edge source="2" target="9">
+      <data key="d35">100Gbps</data>
+      <data key="d36">34</data>
+    </edge>
+    <edge source="0" target="31">
+      <data key="d35">100Gbps</data>
+      <data key="d36">35</data>
+    </edge>
+    <edge source="0" target="28">
+      <data key="d35">100Gbps</data>
+      <data key="d36">36</data>
+    </edge>
+    <edge source="23" target="25">
+      <data key="d35">100Gbps</data>
+      <data key="d36">37</data>
+    </edge>
+    <edge source="23" target="29">
+      <data key="d35">100Gbps</data>
+      <data key="d36">38</data>
+    </edge>
+    <edge source="25" target="27">
+      <data key="d35">100Gbps</data>
+      <data key="d36">39</data>
+    </edge>
+    <edge source="28" target="32">
+      <data key="d35">100Gbps</data>
+      <data key="d36">40</data>
+    </edge>
+    <edge source="31" target="32">
+      <data key="d35">100Gbps</data>
+      <data key="d36">41</data>
+    </edge>
+  </graph>
+</graphml>
